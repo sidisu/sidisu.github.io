@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Tim
-tagline:             Blog for Metis
+title:               Tim's blog for Metis
+tagline:             Blog for datascience projects
 url:                 http://sidisu.github.io
 paginate:            2
 baseurl:             ""
